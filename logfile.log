@@ -1,0 +1,108 @@
+Traceback (most recent call last):
+  File "/home/rdpuser/diariospdf/spider/spider.py", line 1, in <module>
+    from flask import Flask, render_template, request, redirect, url_for, send_file, send_from_directory, jsonify
+ModuleNotFoundError: No module named 'flask'
+Traceback (most recent call last):
+  File "/home/rdpuser/diariospdf/spider/spider.py", line 1, in <module>
+    from flask import Flask, render_template, request, redirect, url_for, send_file, send_from_directory, jsonify
+ModuleNotFoundError: No module named 'flask'
+Traceback (most recent call last):
+  File "/home/rdpuser/diariospdf/spider/spider.py", line 1, in <module>
+    from flask import Flask, render_template, request, redirect, url_for, send_file, send_from_directory, jsonify
+ModuleNotFoundError: No module named 'flask'
+Traceback (most recent call last):
+  File "/home/rdpuser/diariospdf/spider/spider.py", line 1, in <module>
+    from flask import Flask, render_template, request, redirect, url_for, send_file, send_from_directory, jsonify
+ModuleNotFoundError: No module named 'flask'
+Traceback (most recent call last):
+  File "/home/rdpuser/diariospdf/spider/spider.py", line 1, in <module>
+    from flask import Flask, render_template, request, redirect, url_for, send_file, send_from_directory, jsonify
+ModuleNotFoundError: No module named 'flask'
+Traceback (most recent call last):
+  File "/home/rdpuser/diariospdf/spider/spider.py", line 1, in <module>
+    from flask import Flask, render_template, request, redirect, url_for, send_file, send_from_directory, jsonify
+ModuleNotFoundError: No module named 'flask'
+Traceback (most recent call last):
+  File "/home/rdpuser/diariospdf/spider/spider.py", line 1, in <module>
+    from flask import Flask, render_template, request, redirect, url_for, send_file, send_from_directory, jsonify
+ModuleNotFoundError: No module named 'flask'
+Traceback (most recent call last):
+  File "/home/rdpuser/diariospdf/spider/spider.py", line 1, in <module>
+    from flask import Flask, render_template, request, redirect, url_for, send_file, send_from_directory, jsonify
+ModuleNotFoundError: No module named 'flask'
+Traceback (most recent call last):
+  File "/home/rdpuser/diariospdf/spider/spider.py", line 1, in <module>
+    from flask import Flask, render_template, request, redirect, url_for, send_file, send_from_directory, jsonify
+ModuleNotFoundError: No module named 'flask'
+Traceback (most recent call last):
+  File "/home/rdpuser/diariospdf/spider/spider.py", line 1, in <module>
+    from flask import Flask, render_template, request, redirect, url_for, send_file, send_from_directory, jsonify
+ModuleNotFoundError: No module named 'flask'
+Traceback (most recent call last):
+  File "/home/rdpuser/diariospdf/spider/spider.py", line 1, in <module>
+    from flask import Flask, render_template, request, redirect, url_for, send_file, send_from_directory, jsonify
+ModuleNotFoundError: No module named 'flask'
+Traceback (most recent call last):
+  File "/home/rdpuser/diariospdf/spider/spider.py", line 1, in <module>
+    from flask import Flask, render_template, request, redirect, url_for, send_file, send_from_directory, jsonify
+ModuleNotFoundError: No module named 'flask'
+Traceback (most recent call last):
+  File "/home/rdpuser/diariospdf/spider/spider.py", line 1, in <module>
+    from flask import Flask, render_template, request, redirect, url_for, send_file, send_from_directory, jsonify
+ModuleNotFoundError: No module named 'flask'
+Traceback (most recent call last):
+  File "/home/rdpuser/diariospdf/spider/spider.py", line 1, in <module>
+    from flask import Flask, render_template, request, redirect, url_for, send_file, send_from_directory, jsonify
+ModuleNotFoundError: No module named 'flask'
+Traceback (most recent call last):
+  File "/home/rdpuser/diariospdf/spider/spider.py", line 1, in <module>
+    from flask import Flask, render_template, request, redirect, url_for, send_file, send_from_directory, jsonify
+ModuleNotFoundError: No module named 'flask'
+Traceback (most recent call last):
+  File "/home/rdpuser/diariospdf/spider/spider.py", line 1, in <module>
+    from flask import Flask, render_template, request, redirect, url_for, send_file, send_from_directory, jsonify
+ModuleNotFoundError: No module named 'flask'
+Traceback (most recent call last):
+  File "/home/rdpuser/diariospdf/spider/spider.py", line 1, in <module>
+    from flask import Flask, render_template, request, redirect, url_for, send_file, send_from_directory, jsonify
+ModuleNotFoundError: No module named 'flask'
+Traceback (most recent call last):
+  File "/home/rdpuser/diariospdf/spider/spider.py", line 1, in <module>
+    from flask import Flask, render_template, request, redirect, url_for, send_file, send_from_directory, jsonify
+ModuleNotFoundError: No module named 'flask'
+Traceback (most recent call last):
+  File "/home/rdpuser/diariospdf/spider/spider.py", line 1, in <module>
+    from flask import Flask, render_template, request, redirect, url_for, send_file, send_from_directory, jsonify
+ModuleNotFoundError: No module named 'flask'
+Traceback (most recent call last):
+  File "/home/rdpuser/diariospdf/spider/spider.py", line 1, in <module>
+    from flask import Flask, render_template, request, redirect, url_for, send_file, send_from_directory, jsonify
+ModuleNotFoundError: No module named 'flask'
+Traceback (most recent call last):
+  File "/home/rdpuser/diariospdf/spider/spider.py", line 1, in <module>
+    from flask import Flask, render_template, request, redirect, url_for, send_file, send_from_directory, jsonify
+ModuleNotFoundError: No module named 'flask'
+Traceback (most recent call last):
+  File "/home/rdpuser/diariospdf/spider/spider.py", line 1, in <module>
+    from flask import Flask, render_template, request, redirect, url_for, send_file, send_from_directory, jsonify
+ModuleNotFoundError: No module named 'flask'
+Traceback (most recent call last):
+  File "/home/rdpuser/diariospdf/spider/spider.py", line 1, in <module>
+    from flask import Flask, render_template, request, redirect, url_for, send_file, send_from_directory, jsonify
+ModuleNotFoundError: No module named 'flask'
+Traceback (most recent call last):
+  File "/home/rdpuser/diariospdf/spider/spider.py", line 1, in <module>
+    from flask import Flask, render_template, request, redirect, url_for, send_file, send_from_directory, jsonify
+ModuleNotFoundError: No module named 'flask'
+Traceback (most recent call last):
+  File "/home/rdpuser/diariospdf/spider/spider.py", line 1, in <module>
+    from flask import Flask, render_template, request, redirect, url_for, send_file, send_from_directory, jsonify
+ModuleNotFoundError: No module named 'flask'
+Traceback (most recent call last):
+  File "/home/rdpuser/diariospdf/spider/spider.py", line 1, in <module>
+    from flask import Flask, render_template, request, redirect, url_for, send_file, send_from_directory, jsonify
+ModuleNotFoundError: No module named 'flask'
+Traceback (most recent call last):
+  File "/home/rdpuser/diariospdf/spider/spider.py", line 1, in <module>
+    from flask import Flask, render_template, request, redirect, url_for, send_file, send_from_directory, jsonify
+ModuleNotFoundError: No module named 'flask'
